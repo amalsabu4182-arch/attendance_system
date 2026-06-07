@@ -51,6 +51,6 @@ db.sqlite3-journal
 htmlcov/
 .pytest_cache/
 
-# Node (for frontend tools if needed)
+# Node
 node_modules/
 npm-debug.log
